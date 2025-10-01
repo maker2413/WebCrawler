@@ -1,0 +1,11 @@
+#+TITLE: Web Crawler
+
+This is just a simple web crawler.
+
+This program was created while following along with the course on [[https://www.boot.dev/u/maker2413][Boot.dev]].
+
+To run the AI agent you can do the following:
+#+begin_src shell
+  make build
+  make run
+#+end_src
