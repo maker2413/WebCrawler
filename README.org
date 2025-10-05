@@ -7,5 +7,6 @@ This program was created while following along with the course on [[https://www.
 To run the AI agent you can do the following:
 #+begin_src shell
   make build
-  make run
+
+  make run <URL>
 #+end_src
